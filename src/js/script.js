@@ -1,1 +1,3 @@
-var name = "hesham";
+const name = 'hesham';
+
+// console.log(name);
